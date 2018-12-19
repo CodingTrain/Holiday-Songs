@@ -36,5 +36,23 @@ I have the ukulele chords for the folllowing songs. However you are welcome to s
 
 ## Submissions
 
-### Your Song Title
-Your song lyrics
+### Coding Train
+*to the tune of Jingle Bells*
+
+```
+Declaring global variables
+above the function setup.
+Filling the array of bubbles
+[NEED A GOOD RHYME HERE?]
+
+
+Coding Train Coding Train
+Coding iteration
+Oh what fun it is to type
+A flocking simulation, hey
+
+Coding Train Coding Train
+Coding p5 js
+Oh what fun it is to type
+And see the 60 FPS, hey
+```
