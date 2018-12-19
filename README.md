@@ -10,6 +10,7 @@ You can submit them as a separate markdown file or just add them to the bottom o
 
 ## Submissions
 
+### [Oh Processing](Oh%20Processing.md)
 ### [I Have a Little Issue](issue.md)
 ### [I Don't Want This Dot for Christmas](thisdot.md)
 ### Coding Train
