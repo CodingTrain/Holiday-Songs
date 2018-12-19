@@ -45,7 +45,6 @@ above the function setup.
 Filling the array of bubbles
 [NEED A GOOD RHYME HERE?]
 
-
 Coding Train Coding Train
 Coding iteration
 Oh what fun it is to type
