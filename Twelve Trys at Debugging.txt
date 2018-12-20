@@ -1,0 +1,101 @@
+On my first try at debugging I thought I fixed the bug
+And now I think that I should give up
+
+On my second try at debugging I thought I fixed the bug
+Two missed This Dots
+And now I think that I should give up
+
+On my third try at debugging I thought I fixed the bug
+Three digits off
+Two missed This Dots
+And now I think that I should give up
+
+On my fourth try at debugging I thought I fixed the bug
+Four times the callback’s called
+Three digits off
+Two missed This Dots
+And now I think that I should give up
+
+On my fifth try at debugging I thought I fixed the bug
+Five console logs
+Four times the callback’s called
+Three digits off
+Two missed This Dots
+And now I think that I should give up
+
+On my sixth try at debugging I thought I fixed the bug
+Six vars don’t exist
+Five console logs
+Four times the callback’s called
+Three digits off
+Two missed This Dots
+And now I think that I should give up
+
+On my seventh try at debugging I thought I fixed the bug
+Seven wrong algorithms
+Six vars don’t exist
+Five console logs
+Four times the callback’s called
+Three digits off
+Two missed This Dots
+And now I think that I should give up
+
+On my eighth try at debugging I thought I fixed the bug
+Eight hardcoded numbers
+Seven wrong algorithms
+Six vars don’t exist
+Five console logs
+Four times the callback’s called
+Three digits off
+Two missed This Dots
+And now I think that I should give up
+
+On my ninth try at debugging I thought I fixed the bug
+Nine functions that I didn’t comment
+Eight hardcoded numbers
+Seven wrong algorithms
+Six vars don’t exist
+Five console logs
+Four times the callback’s called
+Three digits off
+Two missed This Dots
+And now I think that I should give up
+
+On my tenth try at debugging I thought I fixed the bug
+Ten missing resources
+Nine functions that I didn’t comment
+Eight hardcoded numbers
+Seven wrong algorithms
+Six vars don’t exist
+Five console logs
+Four times the callback’s called
+Three digits off
+Two missed This Dots
+And now I think that I should give up
+
+On my eleventh try at debugging I thought I fixed the bug
+Eleven levels of complexity
+Ten missing resources
+Nine functions that I didn’t comment
+Eight hardcoded numbers
+Seven wrong algorithms
+Six vars don’t exist
+Five console logs
+Four times the callback’s called
+Three digits off
+Two missed This Dots
+And now I think that I should give up
+
+On my twelfth try at debugging I thought I fixed the bug
+Twelve days without sleep
+Eleven levels of complexity
+Ten missing resources
+Nine functions that I didn’t comment
+Eight hardcoded numbers
+Seven wrong algorithms
+Six vars don’t exist
+Five console logs
+Four times the callback’s called
+Three digits off
+Two missed This Dots
+And now I think that I should give up
