@@ -1,6 +1,6 @@
 # Santa Tell Me Something Cool To Code
 
-*(to the tune of Santa Tell Me - https://www.youtube.com/watch?v=nlR0MkrRklg)*
+*(to the tune of Santa Tell Me - https://youtu.be/jnXxxKZ57Tw)*
 
 ```
 Santa Tell Me
