@@ -2,12 +2,11 @@
 *(to the tune of Oh Christmas Tree)*
 ```
 Oh Processing Oh Processing
-you're the place where magic begins
-[Suggestions? This is horrable english]
+How lovely are thy functions
 
-Whether there is much to do or not
-you will always find a way to plot
+Whether setup size() or draw() and squares
+A noFill() ellipse() or beziers
 
 Oh Processing Oh Processing
-I believe that you're the king!
+How lovely are thy functions
 ```
