@@ -17,6 +17,7 @@ You can submit them as a separate markdown file or just add them to the bottom o
 ### [Oh code all ye faithful](O%20code%20all%20ye%20faithful.md)
 ### [Oh Code All Ye Curious](Oh%20Code%20All%20Ye%20Curious.md)
 ### [Oh Processing](Oh%20Processing.md)
+### [Refactoring all the way](Refactoring%20all%20the%20way.md)
 ### [Santa Tell Me Something Cool To Code](SantaTellMe.md)
 ### [The Nine Days of Processing](The%20Nine%20Days%20of%20Processing.txt)
 ### [The Twelve Tests of Christmas](The%20Twelve%20Tests%20of%20Christmas.md)
