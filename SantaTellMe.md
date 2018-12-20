@@ -9,6 +9,6 @@ Don't make fall in code again
 If it's almost midnight, don't try
 Oh, Santa Tell Me
 If you really care
-Don't make me miss that semicollon
+Don't make me miss that semicolon
 Or quotation marks, draw arcs
 ```
