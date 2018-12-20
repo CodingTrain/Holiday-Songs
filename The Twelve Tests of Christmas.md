@@ -1,4 +1,4 @@
-# The Twelve Tests of Christmas.md
+# The Twelve Tests of Christmas
 *(to the tune of The Twelve Days of Christmas)*
 ```
 On the # test of coding p5 gave to me
