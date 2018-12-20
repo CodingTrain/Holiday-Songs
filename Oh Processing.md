@@ -9,5 +9,5 @@ Whether there is much to do or not
 you will always find a way to plot
 
 Oh Processing Oh Processing
-I think that you are the king!
+I believe that you're the king!
 ```
