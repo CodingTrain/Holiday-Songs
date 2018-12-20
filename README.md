@@ -9,11 +9,15 @@ Add your lyrics for coding themed holiday songs here for my to play live on the 
 You can submit them as a separate markdown file or just add them to the bottom of this README (in which case I might move them to a separate file later.)
 
 ## Submissions
-
+### [Deck the Tabs](Deck%20the%20Tabs.md)
+### [I Have a Little Issue](issue.md)
+### [Oh code all ye faithful](O%20code%20all%20ye%20faithful.md)
 ### [Oh Code All Ye Curious](Oh%20Code%20All%20Ye%20Curious.md)
 ### [Oh Processing](Oh%20Processing.md)
-### [I Have a Little Issue](issue.md)
-### [I Don't Want This Dot for Christmas](thisdot.md)
+### [Santa Tell Me Something Cool To Code](SantaTellMe.md)
+### [The Nine Days of Processing](The%20Nine%20Days%20of%20Processing.txt)
+### [The Twelve Tests of Christmas](The%20Twelve%20Tests%20of%20Christmas.md)
+### [Twelve Trys at Debugging](Twelve%20Trys%20at%20Debugging.txt)
 ### Coding Train
 *(to the tune of Jingle Bells)*
 
