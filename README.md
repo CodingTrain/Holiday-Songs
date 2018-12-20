@@ -9,19 +9,23 @@ Add your lyrics for coding themed holiday songs here for my to play live on the 
 You can submit them as a separate markdown file or just add them to the bottom of this README (in which case I might move them to a separate file later.)
 
 ## Submissions
-### [Deck the Tabs](Deck%20the%20Tabs.md)
-### [Deck the this.Halls](Deck%20the%20this.Halls.md)
-### [I Don't Want This Dot for Christmas](thisdot.md)
-### [I Have a Little Issue](issue.md)
-### [Joy To Java](Joy%20To%20Java.md)
-### [Oh code all ye faithful](O%20code%20all%20ye%20faithful.md)
-### [Oh Code All Ye Curious](Oh%20Code%20All%20Ye%20Curious.md)
-### [Oh Processing](Oh%20Processing.md)
-### [Refactoring all the way](Refactoring%20all%20the%20way.md)
-### [Santa Tell Me Something Cool To Code](SantaTellMe.md)
-### [The Nine Days of Processing](The%20Nine%20Days%20of%20Processing.txt)
-### [The Twelve Days of Coding](The%20Twelve%20Days%20of%20Coding.md)
-### [Twelve Tries at Debugging](Twelve%20Tries%20at%20Debugging.txt)
+
+| Song                                                                   | Original Song                    | Contributor            |
+| ---------------------------------------------------------------------- | -------------------------------- | ---------------------- |
+| [Deck the Tabs](Deck%20the%20Tabs.md)                                  | Deck the Halls                   | @SnappierSoap318       |
+| [Deck the this.Halls](Deck%20the%20this.Halls.md)                      | Deck the Halls                   | @Ugleh                 |
+| [I Don't Want This Dot for Christmas](thisdot.md)                      | I Don't Want a Lot for Christmas | anonymous             |
+| [I Have a Little Issue](issue.md)                                      | I Have a Little Dreidel          | anonymous              |
+| [Joy To Java](Joy%20To%20Java.md)                                      | Joy to the World                 | @SnappierSoap318       |
+| [O code all ye faithful](O%20code%20all%20ye%20faithful.md)            | O Come All Ye Faithful           | @jasondunken           |
+| [O Code All Ye Curious](Oh%20Code%20All%20Ye%20Curious.md)             | O Come All Ye Faithful           | @davidskeck            |
+| [Oh Processing](Oh%20Processing.md)                                    | Oh Christmas Tree                | @gruselhaus, @shiffman |
+| [Refactoring all the way](Refactoring%20all%20the%20way.md)            | Jingle Bells                     | @sjoerd1999            |
+| [Santa Tell Me Something Cool To Code](SantaTellMe.md)                 | Santa Tell Me                    | @joogps                |
+| [The Nine Days of Processing](The%20Nine%20Days%20of%20Processing.txt) | The Twelve Days of Christmas     | @hellonearthis         |
+| [The Twelve Days of Coding](The%20Twelve%20Days%20of%20Coding.md)      | The Twelve Days of Christmas     | @npetrangelo           |
+| [Twelve Tries at Debugging](Twelve%20Tries%20at%20Debugging.txt)       | The Twelve Days of Christmas     | @TurqDevDesign                 |
+ 
 ### Coding Train
 *(to the tune of Jingle Bells)*
 
