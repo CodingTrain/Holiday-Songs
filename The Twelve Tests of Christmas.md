@@ -1,7 +1,7 @@
-# The Twelve Tests of Christmas
+# The Twelve Days of Coding
 *(to the tune of The Twelve Days of Christmas)*
 ```
-On the # test of coding p5 gave to me
+On the # day of coding p5 gave to me
 12 Neural networks
 11 index errors
 10 People posing
