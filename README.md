@@ -20,6 +20,7 @@ You can submit them as a separate markdown file or just add them to the bottom o
 | [Let's Ride the Shiffman Coding Train](Let's%20Ride%20the%20Shiffman%20Coding%20Train.md) | God Rest Ye Merry Gentlemen      | @ChristopherDrum       |
 | [O code all ye faithful](O%20code%20all%20ye%20faithful.md)                               | O Come All Ye Faithful           | @jasondunken           |
 | [O Code All Ye Curious](Oh%20Code%20All%20Ye%20Curious.md)                                | O Come All Ye Faithful           | @davidskeck            |
+| [Oh Coding Train](OhCodingTrain.md)                                                       | Oh Christmas Tree                | @garandomtim |
 | [Oh Processing](Oh%20Processing.md)                                                       | Oh Christmas Tree                | @gruselhaus, @shiffman |
 | [Refactoring all the way](Refactoring%20all%20the%20way.md)                               | Jingle Bells                     | @sjoerd1999            |
 | [Santa Tell Me Something Cool To Code](SantaTellMe.md)                                    | Santa Tell Me                    | @joogps                |
