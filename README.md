@@ -4,7 +4,7 @@ Repo for Holiday Themed Coding song lyric submissions!
 
 Add your lyrics for coding themed holiday songs here for my to play live on the 2nd Annual Processing Foundation Holiday Telethon.
 
-- Live stream: https://youtu.be/WACLmPBxMaw
+- Live stream: https://youtu.be/3wMFd8OGI84
 
 You can submit them as a separate markdown file or just add them to the bottom of this README (in which case I might move them to a separate file later.)
 
