@@ -12,6 +12,8 @@ You can submit them as a separate markdown file or just add them to the bottom o
 
 | Song                                                                                      | Original Song                    | Contributor            |
 | ----------------------------------------------------------------------------------------- | -------------------------------- | ---------------------- |
+| [All I want is for Code to Run](All%20I%20want%20is%20for%20Code%20to%20Run.md)           | All I want for Christmas is You  | @IllestPreacha         |
+| [Coding Train Jingle Bells](coding-train-jingle-bells.md)                               | Jingle Bells                     | @jasondunken            |
 | [Deck the Tabs](Deck%20the%20Tabs.md)                                                     | Deck the Halls                   | @SnappierSoap318       |
 | [Deck the this.Halls](Deck%20the%20this.Halls.md)                                         | Deck the Halls                   | @Ugleh                 |
 | [I Don't Want This Dot for Christmas](thisdot.md)                                         | I Don't Want a Lot for Christmas | anonymous              |
@@ -28,7 +30,7 @@ You can submit them as a separate markdown file or just add them to the bottom o
 | [The Twelve Days of Coding](The%20Twelve%20Days%20of%20Coding.md)                         | The Twelve Days of Christmas     | @npetrangelo           |
 | [Twelve Tries at Debugging](Twelve%20Tries%20at%20Debugging.txt)                          | The Twelve Days of Christmas     | @TurqDevDesign         |
 | [Let It Code](Let%20It%20Code.md)                                                         | Let It Snow                      | @IllestPreacha         |
-| [All I want is for Code to Run](All%20I%20want%20is%20for%20Code%20to%20Run.md)           | All I want for Christmas is You  | @IllestPreacha         |
+
 
 ### Coding Train
 
