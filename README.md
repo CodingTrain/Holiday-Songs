@@ -16,7 +16,7 @@ You can submit them as a separate markdown file or just add them to the bottom o
 | [Coding Train Jingle Bells](coding-train-jingle-bells.md)                               | Jingle Bells                     | @jasondunken            |
 | [Deck the Tabs](Deck%20the%20Tabs.md)                                                     | Deck the Halls                   | @SnappierSoap318       |
 | [Deck the this.Halls](Deck%20the%20this.Halls.md)                                         | Deck the Halls                   | @Ugleh                 |
-| [I Don't Want This Dot for Christmas](thisdot.md)                                         | I Don't Want a Lot for Christmas | anonymous              |
+| [I Don't Want This Dot for Christmas](thisdot.md)                                         | All I want for Christmas is You | anonymous              |
 | [I Have a Little Issue](issue.md)                                                         | I Have a Little Dreidel          | anonymous              |
 | [Joy To Java](Joy%20To%20Java.md)                                                         | Joy to the World                 | @SnappierSoap318       |
 | [Let's Ride the Shiffman Coding Train](Let's%20Ride%20the%20Shiffman%20Coding%20Train.md) | God Rest Ye Merry Gentlemen      | @ChristopherDrum       |
