@@ -2,9 +2,9 @@
 *(to the tune of let it snow)*
 ```
        C         G7      C
-oh the ide whitespace is sightful
+oh the ide autocomplete is insightful
        C         D7      G7
-but this while loop is so insightful
+but this while loop is so delightful
 Dm         A7      Dm
 p5 or java is the mode
 G7                        C
