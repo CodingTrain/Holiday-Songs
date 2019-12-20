@@ -57,24 +57,16 @@ And see the 60 FPS, hey
 
 I have the ukulele chords for the folllowing songs. However you are welcome to submit songs not on this list if you can include a link to the music.
 
-- Oh Christmas Tree
-- I saw Three Ships
-- Jingle Bells
-- Good King Wencelas
-- Up on the Housetopo
-- Over the RIver and Through the Wood
-- O Come, Little Children
-- Away in a Manger
-- Silent Night
-- Joy to the World
-- Jolly Old Saint Nicholas
-- Auld Lang Syne
-- Deck the Halls
-- Patapan
-- God Rest Ye Merry Gentlemen
-- We Three Kings
-- What Child Is This?
-- O Come All Ye Faithful
-- Hark the Herald Angels Sing
-- The Twelve Days of Christmas
-- We Wish You a Merry Christmas
+* ALL I WANT FOR CHRISTMAS IS YOU
+* BLUE CHRISTMAS
+* FELIZ NAVIDAD
+* JINGLE BELL ROCK
+* JINGLE BELLS
+* LAST CHRISTMAS
+* LET IT SNOW!
+* MELE KALIKIMAKA
+* ROCKIN’ AROUND THE CHRISTMAS TREE
+* RUDOLPH THE RED-NOSED REINDEER
+* SANTA CLAUS IS COMIN’ TO TOWN
+* SILENT NIGHT
+* SILVER BELLS
