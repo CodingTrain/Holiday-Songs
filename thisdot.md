@@ -1,6 +1,6 @@
 # I Don't Want This Dot for Christmas
 
-*(to the tune of I Don't Want a Lot for Christmas)*
+*(to the tune of All I want for Christmas is You)*
 
 ```
 [G]
