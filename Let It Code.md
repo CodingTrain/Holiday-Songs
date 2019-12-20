@@ -1,29 +1,49 @@
 # Let It Code
 *(to the tune of let it snow)*
 ```
+       C         G7      C
 oh the ide whitespace is sightful
+       C         D7      G7
 but this while loop is so insightful
+Dm         A7      Dm
 p5 or java is the mode
+G7                        C
 Let us Code, Let us Code, Let Us Code
 
-framerate() doesnt show signs of dropping
-rectmode(), so no signs of cropping
+C                       G7       C
+frameRate() doesnt show signs of dropping
+C             D7            G7
+rectMode(CENTER), so no signs of cropping
+Dm         A7      Dm
 add text() for the letters to show
+G7                        C
 Let us Code, Let us Code, Let Us Code
 
+        G                G
 When we finally add some lights()
+Am         D7      G
 not a fan of using static()
-change the y value for some height()
-then proceeding to createGraphic()
+        G                G
+change the y value for some height
+A7           D7
+then proceeding to createGraphics()
 
+       C         G7      C
 the keypress() is slowly typing
+       C         D7      G7
 as the mouseX() is quickly rising
+Dm         A7      Dm
 as smoothly as the shapeMode()
+G7                        C
 Let us Code, Let us Code, Let Us Code
 
-framerate() doesnt show signs of dropping
-rectmode(), so no signs of cropping
-add text for the letters to show
+C                       G7       C
+frameRate() doesnt show signs of dropping
+C             D7            G7
+rectMode(CENTER), so no signs of cropping
+Dm         A7      Dm
+add text() for the letters to show
+G7                        C
 Let us Code, Let us Code, Let Us Code
 
 Oh let us Code
