@@ -42,7 +42,7 @@ _(to the tune of Jingle Bells)_
 Declaring global variables
 above the function setup.
 Filling the array of bubbles
-[NEED A GOOD RHYME HERE?]
+[to adorn my working tree.]
 
 Coding Train Coding Train
 Coding iteration
