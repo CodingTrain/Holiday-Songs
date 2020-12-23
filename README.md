@@ -43,7 +43,7 @@ Some of the 2020 songs were written by a musician and were not submitted:
 | [Forgot the This Dot ](2020/forgotthethisdot.md)       | Feliz Navidad                   |
 | [Jingle Bots](2020/jinglebots.md)                      | Jingle Bells                    |
 | [Better Keep Count ](2020/betterkeepcount.md)          | [Can't guess it]                |
-| [Do You Want to Code a Snowman?](2020/snowman.md)      | [Can't guess it]                |
+| [Do You Want to Code a Snowman?](2020/snowman.md)      | Do You Want to Build a Snowman? |
 
 ### Coding Train
 
