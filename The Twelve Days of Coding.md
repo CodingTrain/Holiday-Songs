@@ -14,3 +14,20 @@ On the # day of coding p5 gave to me
 3 this dots
 2 pull requests
 And a null pointing binary tree
+
+
+Alternate lyrics. (Incomplete) 
+
+
+And a CodingTrain live stream
+2 this dots 
+3 perfect loops
+4 flocking boids
+FIVE stolen memes
+6 
+7
+8 
+9 
+10 loops a looping 
+11 Pixels Updating 
+12 Sketches Running 
