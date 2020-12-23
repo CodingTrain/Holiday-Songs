@@ -33,6 +33,17 @@ You can submit them as a separate markdown file or just add them to the bottom o
 | [Let It Code](Let%20It%20Code.md)                                                         | Let It Snow                      | @IllestPreacha         |
 | [Your missing this dot](Your%20missing%20this%20dot.md)                                                         | Feliz Navidad                      | @Xyloking17         |
 
+### 2020
+
+Some of the 2020 songs were written by a musician and were not submitted:
+
+| Song                                                   | Original Song                   |
+| ------------------------------------------------------ | ------------------------------- |
+| [All I Want For Christmas is Boolean](2020/boolean.md) | All I Want For Christmas is You |
+| [Forgot the This Dot ](2020/forgotthethisdot.md)       | Feliz Navidad                   |
+| [Jingle Bots](2020/jinglebots.md)                      | Jingle Bells                    |
+| [Better Keep Count ](2020/betterkeepcount.md)          | [Can't guess it]                |
+| [Do You Want to Code a Snowman?](2020/snowman.md)      | [Can't guess it]                |
 
 ### Coding Train
 
