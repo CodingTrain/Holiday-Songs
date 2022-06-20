@@ -57,7 +57,7 @@ And see the 60 FPS, hey
 
 ## Songs for which I have the ukulele chords
 
-I have the ukulele chords for the folllowing songs. However you are welcome to submit songs not on this list if you can include a link to the music.
+I have the ukulele chords for the following songs. However you are welcome to submit songs not on this list if you can include a link to the music.
 
 * ALL I WANT FOR CHRISTMAS IS YOU
 * BLUE CHRISTMAS
@@ -72,3 +72,4 @@ I have the ukulele chords for the folllowing songs. However you are welcome to s
 * SANTA CLAUS IS COMIN’ TO TOWN
 * SILENT NIGHT
 * SILVER BELLS
+
